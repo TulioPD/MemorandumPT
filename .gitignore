@@ -1,0 +1,54 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+.nb-gradle/
+*.nb-configuration.xml
+
+# JAR files
+*.jar
+*.war
+
+# Other files
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Other IDE specific files
+.vscode/
+*.sublime-workspace
+*.sublime-project
